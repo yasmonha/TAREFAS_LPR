@@ -1,4 +1,4 @@
-Repositório dedicado às atividades da disciplina de Linguagem de Programação do curso técnico em informática. Aqui você encontrará as soluções desenvolvidas durante as aulas, utilizando as linguagens C# e C++.
+Repositório dedicado às atividades da disciplina de Linguagem de Programação do curso técnico em Desenvolvimento de Sistemas. Aqui você encontrará as soluções desenvolvidas durante as aulas, utilizando as linguagens C# e C++.
 
 📁 Estrutura do Repositório
 Aula4/: Estruturas de Seleção
