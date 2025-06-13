@@ -21,6 +21,3 @@ Servir como referência para revisão de conceitos e técnicas abordadas em sala
 Facilitar o acompanhamento do progresso nas atividades propostas.
 
 
-🤝 Contribuição
-Este é um projeto acadêmico individual. No entanto, sugestões e feedbacks construtivos são sempre bem-vindos!
-
