@@ -4,7 +4,7 @@
 using namespace std;
 
 void funcaoex1(){
-    setlocale(LC_ALL, "pt_BR.utf8"); //Para usar acentuação
+    setlocale(LC_ALL, "pt_BR.utf8"); //Para usar acentuaçãO
     
     int quantidade;
     cout << "Digite a quantidade de números a serem inseridos: ";
